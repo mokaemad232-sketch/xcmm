@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xcmm-seven.vercel.app/sitemap.xml
